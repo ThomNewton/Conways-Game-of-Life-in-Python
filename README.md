@@ -8,9 +8,9 @@ Instructions:
 
   When active, the application actively counts generations and population of cells.
   When paused, the screen still displays counts for generations and population. Furthermore, when in that state, it allows you to:
-   - add cells in places chosen by mouse click (allows for drawing through multiple cells, the only necessity is to keep the mouse pressed, also changes the value of population counter),
-   - save current state by pressing "S" key,
-   - load saved states by pressing "L" key and choosing a file from a folder (this resets the generation count to zero and adjusts the value of population counter).
+   - add cells in places chosen by a mouse click (allows for drawing through multiple cells, the only necessity is to keep the mouse pressed, also changes the value of population counter),
+   - save current state by pressing an "S" key,
+   - load saved states by pressing an "L" key and choosing a file from a folder (this resets the generation count to zero and adjusts the value of population counter).
 
   Application is activated by running the main.py program file.
 
