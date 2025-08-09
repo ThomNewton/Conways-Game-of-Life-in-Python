@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life-in-Python
+# Conways-Game-of-Life-in-Python
 
 Dear User,
 
